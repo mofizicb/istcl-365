@@ -1,0 +1,27 @@
+istcl-365/
+│
+├── README.md
+├── CHANGELOG.md
+├── instructions/
+│   ├── system_prompt.md
+│   └── behavior_rules.md
+│
+├── knowledge/
+│   ├── bo_account/
+│   ├── services/
+│   ├── forms/
+│   └── regulations/
+│
+├── actions/
+│   ├── openapi.yaml
+│   ├── roadmap.md
+│   └── integration_notes.md
+│
+├── prompts/
+│   ├── customer_queries.md
+│   ├── evaluation_cases.md
+│   └── safety_tests.md
+│
+└── assets/
+    ├── logo.png
+    └── screenshots/
